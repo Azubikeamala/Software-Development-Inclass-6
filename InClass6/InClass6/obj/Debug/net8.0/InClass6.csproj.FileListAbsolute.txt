@@ -1,0 +1,14 @@
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\bin\Debug\net8.0\InClass6.exe
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\bin\Debug\net8.0\InClass6.deps.json
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\bin\Debug\net8.0\InClass6.runtimeconfig.json
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\bin\Debug\net8.0\InClass6.dll
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\bin\Debug\net8.0\InClass6.pdb
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.AssemblyInfoInputs.cache
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.AssemblyInfo.cs
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.csproj.CoreCompileInputs.cache
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.dll
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\refint\InClass6.dll
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.pdb
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\InClass6.genruntimeconfig.cache
+C:\Users\onyen\Desktop\Software dev\week9\InClass6\InClass6\obj\Debug\net8.0\ref\InClass6.dll
